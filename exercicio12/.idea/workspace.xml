@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1af16676-4cdb-4fe9-96fd-ffdee78cb7cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercicio10/src/main/java/org/example/Arquiteto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio10/src/main/java/org/example/Engenheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio10/src/main/java/org/example/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio10/src/main/java/org/example/TelaArquiteto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio10/src/main/java/org/example/TelaEngenheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio11/src/main/java/oop/utfpr/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio11/src/main/java/oop/utfpr/pokedex/GerenciadorPokedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio11/src/main/java/oop/utfpr/pokedex/Pokedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio11/src/main/java/oop/utfpr/pokedex/TelaPokedex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio11/src/main/java/oop/utfpr/pokemon/GerenciadorPokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio11/src/main/java/oop/utfpr/pokemon/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio11/src/main/java/oop/utfpr/pokemon/TelaPokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exerxicio5/src/main/java/br/gov/utfpr/oop/exerxicio5/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OvjMGEqj9AIEHqPjgBnHsCyZJ5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/pedro/code/utfpr/oop/exercicio12/src/main/java/oop/utfpr/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="clientes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="clientes" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1af16676-4cdb-4fe9-96fd-ffdee78cb7cc" name="Changes" comment="" />
+      <created>1682447902580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682447902580</updated>
+      <workItem from="1682447903847" duration="1131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

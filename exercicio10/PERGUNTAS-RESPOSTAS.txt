@@ -1,0 +1,21 @@
+1- O que é sobrescrita? Quando usar?
+R: A sobrescrita em POO ocorre quando uma classe especializa um método de sua superclasse, ou seja, reescreve o comportamento do método para que ele seja melhor adaptado ao contexto da classe.
+
+2-Para que criar classe abstrata?
+R: Uma classe abstrata permite que funcionalidades sejam implementadas ou sobrescritas, essa flexibilidade permite que classes que herdam de uma classe abstrata alterem apenas o necessário.
+
+3-O que é uma classe final?
+R: Uma classe final em Java não pode ser extendida, nem abstrata.
+
+4-Para que criar um método abstrato?
+R: Usando um método abstrato uma classe pode referenciar aquele método sem implementa-lo, isso é útil quando o comportamento desse método não pode ser generalizado, mas ele deve sempre existir.
+Métodos abstratos podem ser usados como uma restrição para as classes que herdam, garantindo que o método sempre vai ser implementado.
+
+5-Para que criar um método final?
+R: Um método final não pode ser sobrescrito por classes que herdam de outra classe, ou seja, ele sempre vai ter o mesmo comportamento em todas as classes.
+
+6-O que é um atributo final?
+R: Atributos finais não pode ser alterados, um valor para esse atributo pode ser atribuido apenas uma vez.
+
+7-Existe atributo abstrato?
+R: Não, em java isso não existe.
